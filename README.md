@@ -21,7 +21,7 @@ I'm a **Backend Developer (Node.js + MongoDB, Java Springboot + Postgresql )** a
 
 
  ## 📊 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel246&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel246)
 
 ## 📫 Let's Connect
